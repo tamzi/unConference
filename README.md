@@ -85,7 +85,7 @@ If you can learn it, awesome! It will save you time...But it really is not impor
 - [x] Create An Android Projects ReadMe
 - [x] Create a website ReadMe for Html and css and JS projects
 - [ ] Creat a Scripts ReadMe file for Python, php, js type projects
-- [ ] Create a ReadMe file for IOS projects
+- [ ]
 
 I would love to have your help in making  **readMe master templates** better.
 
