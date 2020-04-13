@@ -2,7 +2,7 @@
   <a href="https://github.com/tamzi/ReadMe-MasterTemplates">
     <img src="https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/art/readmemastertemplate.jpg" alt="ReadMe Master Templates" width=230 height=150>
   </a>
-  <h2 align="center">unconference</h2>
+  <h2 align="center">connect@conference</h2>
 
   <p align="center">
     If you are working on your projects and using github, the README.md file is a useful starter place for you to write good and clear documentations for  your projects. Use this readMe roject to get started with your project's ReadMe.md file.
@@ -13,7 +13,7 @@
 <br>
 
 ## Table of contents
-- [Description](#description)
+- [About](#description)
 - [Why the MasterTemplates?](#why-the-master-templates)
 - [How to use them](#how-to-use-them)
 - [Roadmap](#roadmap)
@@ -98,23 +98,23 @@ The project is still very incomplete but under development. If there's an [issue
 - [Fork the project and send a pull request](https://github.com/tamzi/ReadMe-MasterTemplates/pulls).
 
 
-Before you contribute though read the contributing guide here: [CONTRIBUTING GUIDE](https://github.com/tamzi/droidconKE2020App/blob/master/contributing.md)
+Before you contribute though read the contributing guide here: [CONTRIBUTING GUIDE](#)
 
 
 
 <hr>
 
 ### Releases
-- [x] [code of conduct](https://github.com/tamzi/ReadMe-MasterTemplates/blob/master/CodeOfConduct.md)
-- [x] [contribution](https://github.com/tamzi/ReadMe-MasterTemplates/blob/master/contributing.md)
-- [x] [Android ReadMe version](https://github.com/tamzi/ReadMe-MasterTemplates/tree/master/android)
+- [ ] [code of conduct](#)
+- [ ] [contribution](#)
+- [ ] [Update ReadMe version](#)
 - [ ] Web version
 - [ ] A brief ReadMe
 
 ### Contributors
 
-<a href="https://github.com/tamzi/ReadMe-MasterTemplates/graphs/contributors">
-  <img src="https://contributors-img.firebaseapp.com/image?repo=tamzi/ReadMe-MasterTemplates" />
+<a href="https://twitter.com/tamrefrank">
+  <img src="https://contributors-img.web.app/image?repo=tamzi/unOfficialDroidconKE" />
 </a>
 
 Twitter:  [@tamrefrank](https://twitter.com/tamrefrank)
@@ -125,8 +125,5 @@ Twitter:  [@tamrefrank](https://twitter.com/tamrefrank)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](#)
 
 
-
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftamzi%2FReadMe-MasterTemplates.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftamzi%2FReadMe-MasterTemplates?ref=badge_large)
-
-<a href="https://www.producthunt.com/posts/readme-master-templates?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-readme-master-templates" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=186076&theme=light" alt="ReadMe Master Templates - Better ReadMe projects for your projects! | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftamzi%2FunOfficialDroidconKE.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftamzi%2FunOfficialDroidconKE?ref=badge_large)
 
