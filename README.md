@@ -89,5 +89,4 @@ Twitter:  [@tamrefrank](https://twitter.com/tamrefrank)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](#)
 
 
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftamzi%2FunOfficialDroidconKE.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftamzi%2FunOfficialDroidconKE?ref=badge_large)
-
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftamzi%2FunConference.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftamzi%2FunConference?ref=badge_large)
