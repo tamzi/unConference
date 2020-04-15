@@ -16,6 +16,8 @@
   </component>
   <component name="ProjectId" id="1aJR9PKH9MDAJ8WnGU8uXcWyM9E" />
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="show.migrate.to.gradle.popup" value="false" />
