@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43ad1a08-503d-4e03-bb5c-64773e6ce397" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/undroidconKE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/unConference.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unConference/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/unConference/test/widget_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/unConference.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/unConference.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unConference/lib/ui/widgets/uncon_button.dart" beforeDir="false" afterPath="$PROJECT_DIR$/unConference/lib/ui/widgets/buttons/uncon_button.dart" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
