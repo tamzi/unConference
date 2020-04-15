@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43ad1a08-503d-4e03-bb5c-64773e6ce397" name="Default Changelist" comment="">
+    <list default="true" id="43ad1a08-503d-4e03-bb5c-64773e6ce397" name="Default Changelist" comment="added new structre for UI complexity">
+      <change afterPath="$PROJECT_DIR$/unConference/lib/data/jsondb/day1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unConference/lib/data/jsondb/day2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unConference/lib/data/jsondb/sessions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unConference/lib/data/jsondb/speakers.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,10 +22,14 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/unConference/lib/data/jsondb" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Frank\Desktop\code\github\unConference\unConference\lib\data\jsondb" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Frank\Desktop\code\github\unConference\unConference\lib\ui\widgets\buttons" />
     </key>
