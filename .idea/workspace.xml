@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43ad1a08-503d-4e03-bb5c-64773e6ce397" name="Default Changelist" comment="added new structre for UI complexity">
-      <change afterPath="$PROJECT_DIR$/unConference/lib/data/jsondb/day1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unConference/lib/data/jsondb/day2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unConference/lib/data/jsondb/sessions.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unConference/lib/data/jsondb/speakers.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unConference/lib/data/jsondb/sessions.json" beforeDir="false" afterPath="$PROJECT_DIR$/unConference/lib/data/jsondb/sessions.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
