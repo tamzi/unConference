@@ -1,18 +1,109 @@
+
 {
+  "data": [
     {
-        "sessionDay " : "day 1",
-        "sessionName" : "KeyNote",
-        "speakerName" : "Mr KeyNote Speaker",
-        "sessionTitle" : "What Everyone Ought To Know About The Macro Trends Affecting Meetings And Travel Industry",
-        "sessionDetails" : "Stressed about 2010 industry and economic unknowns? Discover the industry’s 2010 macro trends and prepare now for the challenges facing the meetings and travel industry today. A distinguished group of panelists will help you stay at the forefront of the industry’s changing business landscape and one step ahead of your competition. Prepare for the challenges facing the industry today that are redefining business without getting stressed from experiencing unknown and unexpected changes."
-
-},
-    {
-          "sessionDay " : "day 1",
-          "sessionName" : "Session 1",
-          "speakerName" : "Seeion Man",
-          "sessionTitle" : "Session 2",
-          "sessionDetails" : "Stressed about 2010 industry and economic unknowns? Discover the industry’s 2010 macro trends and prepare now for the challenges facing the meetings and travel industry today. Prepare for the challenges facing the industry today that are redefining business without getting stressed from experiencing unknown and unexpected changes.",
+      "id": "001",
+      "day": "01",
+      "sessionType": "keynote",
+      "speakerName": "Speaker First Name",
+      "sessionName": "keynote Title",
+      "attributes": {
+        "id": 12020,
+        "sessionTitle": "Macro Trends Affecting Meetings",
+        "details": "Stressed about 2010 industry and economic unknowns? Discover the industry’s 2010 macro trends and prepare now for the challenges facing the meetings and travel industry today.",
+        "duration": "50 mins"
+      }
     },
-
+    {
+      "id": "002",
+      "day": "01",
+      "sessionType": "workshop",
+      "speakerName": "title First Last",
+      "sessionName": "workshop 1",
+      "attributes": {
+        "id": 12021,
+        "sessionTitle": "Workshop1 Title",
+        "details": "Details about speaker session 1. these are the various details about the worskshop session.",
+        "duration": "40 mins"
+      }
+    },
+    {
+      "id": "003",
+      "day": "01",
+      "sessionType": "workshop",
+      "speakerName": "title First Last",
+      "sessionName": "workshop 1",
+      "attributes": {
+        "id": 12021,
+        "sessionTitle": "Workshop1 Title",
+        "details": "Details about speaker session 1. these are the various details about the worskshop session.",
+        "duration": "40 mins"
+      }
+    },
+    {
+      "id": "004",
+      "day": "01",
+      "sessionType": "Break",
+      "speakerName": " ",
+      "sessionName": "Tea Break",
+      "attributes": {
+        "id": 12021,
+        "sessionTitle": "Tea Break",
+        "details": "Tea and Networking session.",
+        "duration": "20 mins"
+      }
+    },
+    {
+      "id": "005",
+      "day": "01",
+      "sessionType": "workshop",
+      "speakerName": "title First Last",
+      "sessionName": "workshop 2",
+      "attributes": {
+        "id": 12022,
+        "sessionTitle": "Workshop2 Title",
+        "details": "Details about speaker session 2. these are the various details about the worskshop session.",
+        "duration": "40mins"
+      }
+    },
+    {
+      "id": "006",
+      "day": "01",
+      "sessionType": "workshop",
+      "speakerName": "title First Last",
+      "sessionName": "workshop 3",
+      "attributes": {
+        "id": 12024,
+        "sessionTitle": "Workshop3 Title",
+        "details": "Details about speaker session 3. these are the various details about the worskshop session.",
+        "duration": "40mins"
+      }
+    },
+    {
+      "id": "007",
+      "day": "01",
+      "sessionType": "workshop",
+      "speakerName": "title First Last",
+      "sessionName": "workshop 4",
+      "attributes": {
+        "id": 12024,
+        "sessionTitle": "Workshop4 Title",
+        "details": "Details about speaker session 4. these are the various details about the worskshop session.",
+        "duration": "40mins"
+      }
+    },
+    {
+      "id": "008",
+      "day": "01",
+      "sessionType": "workshop",
+      "speakerName": "title First Last",
+      "sessionName": "workshop 5",
+      "attributes": {
+        "id": 12024,
+        "sessionTitle": "Workshop4 Title",
+        "details": "Details about speaker session 5. these are the various details about the worskshop session.",
+        "duration": "40mins"
+      }
+    }
+  ]
 }
